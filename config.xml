@@ -38,6 +38,6 @@ Nicolas Sanchez cuellar
 
 <!--Colocar icono app-->
 
-<icon src="res/android/mdpi.png"/>
+<icon src="res/android/notificacion.png"/>
 
 </widget>
